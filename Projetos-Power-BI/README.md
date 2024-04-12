@@ -4,3 +4,7 @@ This report was created as part of DIO's Python data Analytics Bootcamp, in the 
 
 ![](Dio_1.png)
 ![](Dio_2.png)
+
+https://github.com/NaiaraCarmo/Projetos-Power-BI/assets/165210892/87243ff0-3479-4543-b694-3341d890eb10
+
+#
